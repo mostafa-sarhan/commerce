@@ -7,7 +7,7 @@ import logo from '../assets/cart.svg'
 export default function Header() {
 return (
     <div className='bg-blue-200'>
-        <h2>Hello Header From ALL oVER THE WORLD</h2>
+        <h2>Hello Mostafa Hoosam Elden Sarhan</h2>
             <div className='header container mx-auto px-4 bg-amber-100'>
                 <ul className='flex justify-around items-center'>
                     <li><img src={logo} alt="" /></li>
